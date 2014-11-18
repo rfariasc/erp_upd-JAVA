@@ -1,7 +1,5 @@
 import java.io.*;
 
-//This is a test =)
-
 public class RunnableThread {
     static PrintWriter out = new PrintWriter(System.out, true);
 

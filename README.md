@@ -1,4 +1,3 @@
-erp_upd-JAVA
-============
+#erp_upd (versión JAVA)
 
 Tarea 4 Programación de Sistemas
