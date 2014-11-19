@@ -1,13 +1,16 @@
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 
-public class Comunicante {
+/**
+ * Created by beto on 19-11-14.
+ */
+public class Host {
 
     private int port;
     private DatagramSocket socket;
     private InetAddress IPAddress;
 
-    Comunicante(DatagramSocket socket){
+    Host(DatagramSocket socket){
         this.socket = socket;
     }
 
@@ -38,4 +41,6 @@ public class Comunicante {
     public void setSocket(DatagramSocket socket) {
         this.socket = socket;
     }
+
+
 }
