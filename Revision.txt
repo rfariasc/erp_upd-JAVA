@@ -1,0 +1,22 @@
+Revisión del ayudante:
+Cristóbal Badilla, Roberto Farías
+
+Documentación (30%):				100
+Compilación (10%):					100
+Ejecución (60%):
+* Conexión Cliente-servidor (30%):	100
+* Implementación del retardo (15%):	60
+* Implementación del error (15%):	100
+-----------------------------
+Total:								
+
+MÉTODO DE PRUEBA
+* Se usó el programa de prueba que se encuentra en este repositorio:
+https://github.com/VirusRushTheater/erp_udp_prueba
+
+------------------------------------------------------------------------------
+Comentarios:
+* El delay no funciona bien, pero en el código se ve bien implementado, debe ser un bug.
+
+Sugerencias:
+* Extrañé que mencionaran una pequeña explicación modular del funcionamiento del código.
